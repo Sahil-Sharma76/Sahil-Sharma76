@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahil-Sharma76 Junior Front-End Developer 
+- 👋 Hi, I’m @Sahil-Sharma76 Front-End Developer 
 - 👀 I’m interested in tech, music, videogames! Always ready to learn more!
 - 🌱 Currently study -> Reactjs
 - 💞️  I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏
